@@ -156,8 +156,6 @@ function findBestMove(game) {
   return bestMove;
 }
 
-
-// Assuming 'game' is the instance of chess.js and 'board' is the HTML board instance
 function makeMove(game) {
   const bestMove = findBestMove(game);  // Find the best move based on the current depth
 
