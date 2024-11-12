@@ -1,6 +1,6 @@
 # Chess Engine
 
-This is a chess engine developed in JavaScript with the goal of achieving a rating of 2100+. The engine uses the minimax algorithm with alpha-beta pruning to evaluate moves and simulate realistic gameplay. The project is designed for ease of development and testing, with plans to add more advanced features and improve performance over time.
+This is a chess engine developed in JavaScript with the goal of achieving a rating of 1000+. The engine uses the minimax algorithm with alpha-beta pruning to evaluate moves and simulate realistic gameplay. The project is designed for ease of development and testing, with plans to add more advanced features and improve performance over time.
 
 ## Features
 
